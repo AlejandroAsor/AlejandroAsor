@@ -10,16 +10,16 @@ Overall, I am a dedicated and hardworking developer who is passionate about crea
 
 <h2 align="center">🚀 Projects</h2>
 
-<ul>
-  <li>
-    <h3>unBardo Design E-commerce</h3>
-    <p>E-commerce designed and developed for unBardo Design clothing brand using the following stack of technologies: TypeScript, Express, Sequelize, PostgreSQL, React-TypeScript, Node-TypeScript, TailwindCSS, and SCRUM.</p>
-    <p>The homepage of the online shop offers users a variety of tools to easily browse and find products. A banner displays active promotions, allowing users to quickly find out about offers and discounts. Promotional products are displayed with an eye-catching icon, the old price crossed out and the new price next to it. By clicking on an image, users can see the back of a t-shirt and explore the detailed description, available sizes and quantities in stock. Users can add products to their favorites list, select the size and quantity. They will not be allowed to add more than the quantity available in stock to ensure accurate inventory information.</p>
-    <p>In the contact section, users can find detailed contact information for the company. A shopping cart icon displays the list of products added. A chat is available for real-time questions and answers. A down arrow icon allows users to filter products by color, promotions and sort by highest or lowest price. Once in the cart, users can remove products and confirm the removal. At checkout, users must enter full address, house number, area code, phone number and postcode. A valid postcode will verify the location and calculate the shipping cost. Users can unsubscribe from the newsletter and change their password or username.</p>
-    <p>The admin panel allows administrators to view shop statistics and create new products. Administrators can view all products, search by name, filter by availability and create new products with detailed information. Administrators can modify any existing product and save the changes.</p>
-    <p>Check out the deployed project here: <a href="https://unbardodesign-front.vercel.app/">https://unbardodesign-front.vercel.app/</a></p>
-  </li>
-</ul>
+<div style="text-align: center;">
+  <p>I am a Full Stack Developer with a passion for building scalable web applications using cutting-edge technologies. My solid knowledge in TypeScript, React, Redux, Node.js, Sequelize, Express, PostgreSQL, HTML, and CSS has enabled me to work on challenging projects that have allowed me to develop my technical skills and gain experience in teamwork.</p>
+
+  <p>Even though I am relatively new to the industry, I am committed to delivering high-quality code that is maintainable, scalable, and well-documented. I am always eager to learn new technologies and frameworks, and I am not afraid to tackle new challenges. I am a quick learner and a team player, always striving to collaborate closely with cross-functional teams to achieve project goals.</p>
+
+  <p>I have experience working with agile methodologies such as SCRUM, which has helped me work efficiently and effectively in a fast-paced environment. I believe that communication is key to any successful project, and I always make sure to communicate clearly and effectively with clients and stakeholders to ensure that their needs are met.</p>
+
+  <p>Overall, I am a dedicated and hardworking developer who is passionate about creating high-quality web applications that deliver value to users.</p>
+</div>
+
 
 <h2 align="center">🌐 Socials</h2>
 
