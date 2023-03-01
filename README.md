@@ -18,8 +18,9 @@
 <h2 align="center">🌐 Socials</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aacg/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:alejandroasor@corralesgomez.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/aacg/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+<a href="mailto:alejandroasor@corralesgomez.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"></a>
+
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
