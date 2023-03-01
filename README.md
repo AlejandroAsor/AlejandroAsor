@@ -1,4 +1,4 @@
-# Hi there, I'm Alejandro Asor Corrales Gomez! 👋
+<h1 align="center">Alejandro Asor Corrales Gomez</h1>
 
 I am a Full Stack Developer with solid knowledge in TypeScript, React JS, Redux, Node JS, Sequelize, Express, PostgreSQL, HTML and CSS. Although my experience in the industry is recent, I have had the opportunity to work on challenging projects that have allowed me to develop my technical skills and gain experience in teamwork and effective communication with clients and stakeholders.
 
