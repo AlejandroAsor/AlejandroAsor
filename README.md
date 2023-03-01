@@ -2,9 +2,8 @@
 
 My name is Alejandro and I'm a Full Stack Developer with solid knowledge in JavaScript, React JS, Redux, Node JS, Sequelize, Express, PostgreSQL, HTML, and CSS. Although my experience in the industry is recent, I have had the opportunity to work on challenging projects that have allowed me to develop my technical skills and gain experience in teamwork and effective communication with clients and stakeholders.
 
-## Get in touch 📱
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/aacg/).
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aacg/)
 
 ## Tech Stack 🛠️
 
