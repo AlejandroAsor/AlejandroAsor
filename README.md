@@ -18,6 +18,8 @@
   <p>I have experience working with agile methodologies such as SCRUM, which has helped me work efficiently and effectively in a fast-paced environment. I believe that communication is key to any successful project, and I always make sure to communicate clearly and effectively with clients and stakeholders to ensure that their needs are met.</p>
 
   <p>Overall, I am a dedicated and hardworking developer who is passionate about creating high-quality web applications that deliver value to users.</p>
+      <p>Check out the deployed project here: <a href="https://unbardodesign-front.vercel.app/">https://unbardodesign-front.vercel.app/</a></p>
+
 </div>
 
 
