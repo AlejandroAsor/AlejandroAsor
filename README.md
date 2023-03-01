@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Alejandro Asor</h1>
+<h1 align="center">Hi there! 👋 I'm Alejandro Asor Corrales Gomez</h1>
 
 <p align="center">I am a Full Stack Developer with solid knowledge in TypeScript, React, Redux, Node.js, Sequelize, Express, PostgreSQL, HTML, and CSS. Although my experience in the industry is recent, I have had the opportunity to work on challenging projects that have allowed me to develop my technical skills and gain experience in teamwork and effective communication with clients and stakeholders.</p>
 
