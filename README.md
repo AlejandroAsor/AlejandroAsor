@@ -1,18 +1,28 @@
-# 💫 About Me:
-I am a Full Stack developer with solid knowledge in Javascript, React JS, Redux, Node JS, Sequalize, Express, PostgreSQL, HTML and CSS. Although my experience in the industry is recent, I have had the opportunity to work on challenging projects that have allowed me to develop my technical skills and gain experience in teamwork and effective communication with clients and stakeholders.<br>
+# Hello there! 👋
 
+My name is Alejandro and I'm a Full Stack Developer with solid knowledge in JavaScript, React JS, Redux, Node JS, Sequelize, Express, PostgreSQL, HTML, and CSS. Although my experience in the industry is recent, I have had the opportunity to work on challenging projects that have allowed me to develop my technical skills and gain experience in teamwork and effective communication with clients and stakeholders.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/aacg/) 
+## Get in touch 📱
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlejandroAsor&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroAsor&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroAsor&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+You can find me on [LinkedIn](https://www.linkedin.com/in/aacg/).
 
----
-[![](https://visitcount.itsvg.in/api?id=AlejandroAsor&icon=0&color=0)](https://visitcount.itsvg.in)
+## Tech Stack 🛠️
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+
+## GitHub Stats 📊
+
+![AlejandroAsor's github stats](https://github-readme-stats.vercel.app/api?username=AlejandroAsor&show_icons=true&theme=dracula)
+
+![AlejandroAsor's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroAsor&theme=dracula)
+
+![AlejandroAsor's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroAsor&layout=compact&theme=dracula)
