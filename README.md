@@ -1,17 +1,13 @@
-# Hi, I'm Alejandro Asor! 👋🏽
+# Hi there, I'm Alejandro Asor Corrales Gomez! 👋
 
-I am a Full Stack developer with solid knowledge in TypeScript, React JS, Redux, Node JS, Sequelize, Express, PostgreSQL, HTML, and CSS. Although my experience in the industry is recent, I have had the opportunity to work on challenging projects that have allowed me to develop my technical skills and gain experience in teamwork and effective communication with clients and stakeholders.
+I am a Full Stack Developer with solid knowledge in TypeScript, React JS, Redux, Node JS, Sequelize, Express, PostgreSQL, HTML and CSS. Although my experience in the industry is recent, I have had the opportunity to work on challenging projects that have allowed me to develop my technical skills and gain experience in teamwork and effective communication with clients and stakeholders.
 
-## Find me on:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aacg/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejandroasor@corralesgomez.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aacg/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:alejandroasor@corralesgomez.com)
-
-## Projects:
-
-### E-commerce unBardo Design
-E-commerce designed & developed for unBardo design clothing brand using the following stack of technologies: 
-TypeScript, Express, Sequelize, PostgreSQL, React-TypeScript, Node-TypeScript, TailwindCSS, SCRUM
+## 🔨 Projects:
+- [unBardo Design E-commerce](https://unbardodesign-front.vercel.app/) - An E-commerce designed & developed for unBardo Design clothing brand using the following stack of technologies: TypeScript, Express, Sequelize, PostgreSQL, React-TypeScript, Node-TypeScript, TailwindCSS, SCRUM.
 
 The homepage of the online shop offers users a variety of tools to easily browse and find products. A banner displays active promotions, allowing users to quickly find out about offers and discounts. Promotional products are displayed with an eye-catching icon, the old price crossed out and the new price next to it. By clicking on an image, users can see the back of a t-shirt and explore the detailed description, available sizes and quantities in stock. Users can add products to their favourites list, select the size and quantity. They will not be allowed to add more than the quantity available in stock to ensure accurate inventory information.
 
